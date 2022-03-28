@@ -31,7 +31,7 @@ $ source ~/.bashrc
 ```
 ### Install Terraform version 1.0.11
 ``` sh
-wget https://releases.hashicorp.com/terraform/1.0.11/terraform_1.0.11_linux_amd64.zip 
+wget https://releases.hashicorp.com/terraform/1.1.7/terraform_1.1.7_linux_386.zip 
 sudo unzip terraform_1.0.11_linux_amd64.zip -d /usr/local/bin/
 export PATH=$PATH:/usr/local/bin
 # Add path permanently for current user.By Exporting path in .bashrc file at end of file.
